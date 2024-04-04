@@ -3,8 +3,9 @@ Par Jonathan Valade, Jonathan Langevin et Raphael Gendron
 
 ## Depedencies
 1) Python (https://www.python.org/downloads)
-2) Tensorflow (pip install tensorflow)
-3) MatPlotLib (pip install MatPlotLib)
+2) Pygame (pip install pygame)
+3) Tensorflow (pip install tensorflow)
+4) MatPlotLib (pip install MatPlotLib)
 
 ## Références
 ### 3Blue1Brown
