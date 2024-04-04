@@ -22,10 +22,13 @@ really_huge_number = 1000
 train_frequency = 10
 average_score_rate = 10
 
+# Path to memory
+model_path = 'model.keras.'
+
 # Load or create model
-if os.path.exists('lol/model.keras'):
-    model = load_model('lol/model.keras')
-    print("Model loaded successfully from:")
+if os.path.exists(model_path):
+    model = load_model(model_path)
+    print("Model loaded successfully from:", model_path)
 else:
     model = Sequential([
         LSTM(units=16, input_shape=(1, 1), activation='tanh', return_sequences=False),
