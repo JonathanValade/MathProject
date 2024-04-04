@@ -1,6 +1,11 @@
 # MathProject - IA sur Géometrie Dash
 Par Jonathan Valade, Jonathan Langevin et Raphael Gendron
 
+## Depedencies
+1) Python (https://www.python.org/downloads)
+2) Tensorflow (pip install tensorflow)
+3) MatPlotLib (pip install MatPlotLib)
+
 ## Références
 ### 3Blue1Brown
 #### Youtube Videos Playlist
@@ -20,10 +25,3 @@ https://github.com/Sanil2108/Medium/tree/master/nn_playing_game
 2) https://medium.com/@sanilkhurana7/making-a-neural-network-learn-to-play-a-game-part-2-interacting-with-the-game-82cd33d75019
 3) https://medium.com/@sanilkhurana7/making-a-neural-network-learn-to-play-a-game-part-3-actually-coding-the-neural-network-16760f87dc09
 4) https://medium.com/@sanilkhurana7/making-a-neural-network-learn-to-play-a-game-part-4-finishing-up-94d4a4b4603f
-#### Depedencies
-1) Tensorflow (pip install tensorflow)
-2) etc ...
-
-### Open-Gd
-#### Github
-https://github.com/Open-GD/OpenGD
