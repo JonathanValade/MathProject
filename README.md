@@ -6,7 +6,7 @@ Par Jonathan Valade, Jonathan Langevin et Raphael Gendron
 #### Youtube Videos Playlist
 https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 #### Articles
-1) https://www.3blue1brown.com/lessons/neural-networks#title	
+1) https://www.3blue1brown.com/lessons/neural-networks
 2) https://www.3blue1brown.com/lessons/gradient-descent
 3) https://www.3blue1brown.com/lessons/neural-network-analysis
 4) https://www.3blue1brown.com/lessons/backpropagation
