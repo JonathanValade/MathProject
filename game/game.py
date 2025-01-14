@@ -6,6 +6,8 @@ from Enemy import Enemy
 import Player as Player
 from Collision import check_collision_between_polygons
 
+#new comments
+
 # Static variables
 enemy_prob = 100
 enemies = []
